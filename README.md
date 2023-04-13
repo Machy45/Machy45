@@ -1,6 +1,6 @@
 # Hi there, my name is Mahmoud
 
-### I am currently studying computers science at DCU witht the aims of getting a bachelor's degree.
+### I am currently studying computers science at DCU with the aims of getting a bachelor's degree.
 ### I wish to become a webGL Developer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Machy45&show_icons=true&theme=radical)
 
